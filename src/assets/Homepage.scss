@@ -1,0 +1,16 @@
+#Homepage{
+    h1{
+        background-color: red;
+        &:hover{
+            background-color: black;
+        }
+        @media screen and (max-width:767px){
+        background-color: yellow;
+        }
+    }
+      .myHeader{
+        background-color: blue;
+      }
+  
+   
+}

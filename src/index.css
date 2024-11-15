@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+#root,
+.App
+{
+  min-height: 100vh;
+  background-color: hsla(175, 87%, 36%, 0.753);
+}
+
+/* h1{
+  color: red;
+} */
